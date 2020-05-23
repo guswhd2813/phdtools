@@ -1,0 +1,25 @@
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe.config
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csprojResolveAssemblyReference.cache
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.MainForm.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.Properties.Resources.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.InfoForm.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csproj.GenerateResource.Cache
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.pdb
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\phdapinet.dll
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.exe
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.pdb
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.TagMain.resources
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe.config
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.pdb
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\phdapinet.dll
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csprojAssemblyReference.cache
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.MainForm.resources
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.Properties.Resources.resources
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.InfoForm.resources
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.TagMain.resources
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csproj.GenerateResource.cache
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csproj.CopyComplete
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.exe
+C:\Users\kimgara\Desktop\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.pdb
