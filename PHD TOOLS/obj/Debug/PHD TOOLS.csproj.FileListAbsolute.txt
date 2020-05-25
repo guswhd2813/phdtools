@@ -1,0 +1,16 @@
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe.config
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.MainForm.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.Properties.Resources.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.InfoForm.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csproj.GenerateResource.Cache
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.pdb
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\bin\Debug\phdapinet.dll
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.exe
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.pdb
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.TagMain.resources
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.csprojResolveAssemblyReference.cache
+C:\Users\hjkim\Desktop\01 ing\PHD TOOLS PROGRAM\PHD TOOLS\PHD TOOLS\obj\Debug\PHD_TOOLS.TimePanel.resources
+D:\00 WORK\98 my\03 phdtools\PHDTOOLS\PHD TOOLS\bin\Debug\PHD TOOLS.exe.config
+D:\00 WORK\98 my\03 phdtools\PHDTOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.exe
+D:\00 WORK\98 my\03 phdtools\PHDTOOLS\PHD TOOLS\obj\Debug\PHD TOOLS.pdb
